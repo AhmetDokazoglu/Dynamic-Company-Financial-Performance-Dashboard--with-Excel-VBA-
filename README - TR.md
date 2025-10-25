@@ -91,11 +91,6 @@ Sistem tek sayfa üzerinde çalışır ve **şekil görünürlüğü (Shape Visi
 - Kod destekli otomasyon sistemi  
 - Genişletilebilir modüler tasarım  
 
-### 🔸 Geliştirilebilir Noktalar
-- Power BI veya Tableau entegrasyonu  
-- VBA kodlarına kullanıcı arayüzü ve animasyon ekleme  
-- Dashboard’a kullanıcı giriş ekranı eklenmesi  
-- Power Query ile otomatik veri güncelleme  
 
 ### 🔸 Genel Değerlendirme
 Bu proje, Excel’in yalnızca bir hesaplama aracı değil, aynı zamanda güçlü bir **raporlama ve veri görselleştirme platformu** olarak kullanılabileceğini göstermektedir.  
@@ -105,7 +100,6 @@ VBA desteği sayesinde etkileşimli, dinamik ve sade bir kullanıcı deneyimi sa
 
 ## 👨‍💻 Hazırlayan
 **Ahmet Dokazoğlu**  
-_Data Analyst & Economist_  
 📍 Ankara, Türkiye  
 🔗 [GitHub Profilim](https://github.com/AhmetDokazoglu)  
 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/ahmet-dokazo%C4%9Flu-9660b2346/)
