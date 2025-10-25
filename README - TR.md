@@ -113,4 +113,4 @@ _Data Analyst & Economist_
 ---
 
 ## 📎 Ek Dökümanlar
-📄 [Proje Raporunun Word Versiyonu (İndir)](https://github.com/AhmetDokazoglu/Dynamic-Company-Financial-Performance-Dashboard/raw/refs/heads/main/türkçe.docx)
+📄 [Proje Raporunun Word Versiyonu (İndir)](https://github.com/AhmetDokazoglu/Dynamic-Company-Financial-Performance-Dashboard--with-Excel-VBA-/raw/refs/heads/main/Dynamic%20Company%20Financial%20Performance%20Dashboard%20(with%20Excel%20VBA)(TR).docx)
